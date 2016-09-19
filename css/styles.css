@@ -11,7 +11,7 @@
 #section-watchlist li {
 	padding: 0px;
 	margin: 0px 4% 4% 0px;
-	width: 140px;
+	width: 160px;
 }
 
 
@@ -21,9 +21,9 @@
 }
 
 
-#section-watchlist ul {
-	text-align: center;
-}
+/*#section-watchlist ul {*/
+/*	text-align: center;*/
+/*}*/
 
 
 .main-content {
@@ -44,4 +44,24 @@ section header {
 
 section {
 	padding: 2%;
+}
+
+#browse-carousel {
+	max-width: 300px;
+	margin: auto;
+}
+
+.carousel-inner {
+	padding-left: 0px;
+}
+
+#add-to-watchlist {
+	width:100%;
+	
+}
+
+.well {
+	background-color: red;
+	color: white;
+}
 }
